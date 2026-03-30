@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I’m currently working on:<br>Building an Employee Management System using Spring Boot, React, and MySQL, and also developing a Women’s Safety Chatbot.<br><br>🤝 I’m looking to collaborate on:<br>Web development projects, especially full-stack applications and social impact tech projects.<br><br>🆘 I’m looking for help with:<br>Improving backend architecture, API optimization, and deployment.<br><br>📚 I’m currently learning:<br>Spring Boot, React.js, REST APIs, and System Design basics.<br><br>⚡ Fun fact:<br>I love turning real-life problems into tech solutions and enjoy debugging more than writing code 😄
+👩‍💻 I’m currently working on:<br>Building an Employee Management System using Spring Boot, React, and MySQL.<br><br>🤝 I’m looking to collaborate on:<br>Web development projects, especially full-stack applications and social impact tech projects.<br><br>🆘 I’m looking for help with:<br>Improving backend architecture, API optimization, and deployment.<br><br>📚 I’m currently learning:<br>Spring Boot, React.js, REST APIs, and System Design basics.<br><br>⚡ Fun fact:<br>I love turning real-life problems into tech solutions and enjoy debugging more than writing code 😄
 
 
 # 🌐 Connect with me
